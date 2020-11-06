@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+/* 相当于css样式页面*/
+.title{
+  color: red;
+  font-size: 30px;
+}
